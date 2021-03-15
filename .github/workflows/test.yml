@@ -23,14 +23,14 @@ jobs:
                 continue
               }
 
-              //if (issue.pull_request) {
-              //  return // Creator is already a contributor.
-              //}
+              if (issue.pull_request) {
+                return // Creator is already a contributor.
+              }
             }
 
             await github.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '${{github.actor}}Welcome, new contributor!'
+              body: '@all-contributors add ${{github.actor}} for code'
             })
