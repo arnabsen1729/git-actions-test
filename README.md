@@ -12,7 +12,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://arnabsen.rocks/"><img src="https://avatars.githubusercontent.com/u/51032928?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arnab Sen</b></sub></a><br /><a href="https://github.com/arnabsen1729/git-actions-test/commits?author=arnabsen1729" title="Code">💻</a></td>
+    <td align="center"><a href="https://arnabsen.rocks/"><img src="https://avatars.githubusercontent.com/u/51032928?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arnab Sen</b></sub></a><br /><a href="https://github.com/arnabsen1729/git-actions-test/commits?author=arnabsen1729" title="Code">💻</a> <a href="#design-arnabsen1729" title="Design">🎨</a></td>
   </tr>
 </table>
 
