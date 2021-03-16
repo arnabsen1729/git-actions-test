@@ -20,7 +20,6 @@ useReviewGroups: true
 reviewGroups:
   groupA:
     - Rajdeep-G
-  groupB:
     - berakrishnendu36
 
 # Set to true to add assignees from different groups to pull requests
